@@ -1,0 +1,6 @@
+{
+  "name": "Liddraft Position Shift Analyzer",
+  "description": "An academic and empirical research platform that parses Liddraft (Lidraughts) game data to analyze whether sudden playing position shifts hijack opponent focus and trigger mirroring behaviors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
